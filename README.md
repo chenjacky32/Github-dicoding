@@ -9,3 +9,7 @@ Daftar materi Github versi dicoding
 - Git Checkout
 - Git Reset
 - Git Rebase
+
+17 Februari 2024 
+Belajar Kelas GitHub 
+-belajar Git push,Git pull
