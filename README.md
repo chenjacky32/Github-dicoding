@@ -29,3 +29,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.**
 * Belajar tipe data koleksi, seperti list, set, dan map.
 
+**19 Februari 2024**<br>
+Collab 2 User
+
